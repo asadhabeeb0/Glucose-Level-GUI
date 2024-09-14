@@ -1,0 +1,8 @@
+I want GUI interface includes (input, graph and timer),
+The program should ask the user every 15 minutes to enter the glucose level.
+
+
+
+GUI interface includes (input, graph and timer),
+The program should ask the user every 15 minutes to enter the glucose level and graph it
+
